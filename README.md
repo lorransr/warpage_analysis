@@ -10,10 +10,10 @@ A princípio foi concebido o desenho 3D de uma peça com geometria similar a cal
 * Condutividade Térmica (W/m°C): 0.31
 * Calor Específico(J/kg°C): 3400
 
-O modelo foi importado para o MPI e em seguida foi aplicada uma malha, antes de se realizar a análise. Foi escolhida uma malha de elementos triangulares. O tipo de malha foi a malha para superfícies fundidas. De maneira que ao fim do processo foram obtidos 1174 nós, com 2204 elementos triangulares, e com razão de convergência 
+O modelo foi importado para o MPI e em seguida foi aplicada uma malha, antes de se realizar a análise. Foi escolhida uma malha de elementos triangulares. O tipo de malha foi a malha para superfícies fundidas. De maneira que ao fim do processo foram obtidos 1174 nós, com 2204 elementos triangulares, e com Match ratio (entender oq é) de 97%
 
 Ao todo foram selecionados para a simulação cinco níveis de temperatura de injeção (280,255,230,205 e 180°C), três níveis da pressão de recalque(90,75 e 60% da pressão máxima de injeção), três níveis de  temperatura do molde (70,45 e 20°C). 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjE4OTg3NTksMTQ5ODE1MjYxNCwtMT
-UzMTYzMjg1MV19
+eyJoaXN0b3J5IjpbMTk0NjEwMDgyMSwxNDk4MTUyNjE0LC0xNT
+MxNjMyODUxXX0=
 -->
