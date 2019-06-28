@@ -10,7 +10,7 @@ A princípio foi concebido o desenho 3D de uma peça com geometria similar a cal
 * Condutividade Térmica (W/m°C): 0.31
 * Calor Específico(J/kg°C): 3400
 
-Ao todo foram selecionados para a simulação cinco níveis de temperatura de injeção (280,255,230,205 e 180°C), três níveis da pressão de recalque(90,75 e 60% da pressão máxima de injeção)
+Ao todo foram selecionados para a simulação cinco níveis de temperatura de injeção (280,255,230,205 e 180°C), três níveis da pressão de recalque(90,75 e 60% da pressão máxima de injeção), três níveis de 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTUxMDY2NzddfQ==
+eyJoaXN0b3J5IjpbLTE1MzE2MzI4NTFdfQ==
 -->
