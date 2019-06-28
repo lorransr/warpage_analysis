@@ -10,10 +10,9 @@ A princípio foi concebido o desenho 3D de uma peça com geometria similar a cal
 * Condutividade Térmica (W/m°C): 0.31
 * Calor Específico(J/kg°C): 3400
 
-O modelo foi importado para o MPI e em seguida foi aplicada uma malha, antes de se realizar a análise. Foi escolhida uma malha de elementos t
+O modelo foi importado para o MPI e em seguida foi aplicada uma malha, antes de se realizar a análise. Foi escolhida uma malha de elementos triangulares. O tipo de malha foi a malha 
 
 Ao todo foram selecionados para a simulação cinco níveis de temperatura de injeção (280,255,230,205 e 180°C), três níveis da pressão de recalque(90,75 e 60% da pressão máxima de injeção), três níveis de  temperatura do molde (70,45 e 20°C). 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTY2OTU0ODYsLTE1MzE2MzI4NTFdfQ
-==
+eyJoaXN0b3J5IjpbLTQzMzI5Njc5MCwtMTUzMTYzMjg1MV19
 -->
