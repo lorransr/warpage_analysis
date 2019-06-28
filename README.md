@@ -7,7 +7,10 @@ A princípio foi concebido o desenho 3D de uma peça com geometria similar a cal
 
 * Temperatura de Injeção (°C): 180~280
 * Temperatura do Molde (°C): 20~70
-* Condutividade Térmica (
+* Condutividade Térmica (W/m°C): 0.31
+* Calor Específico(J/kg°C): 3400
+
+Ao todo foram selecionados para a simulação 5 níveis de temperatu
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NTgxNzEwMF19
+eyJoaXN0b3J5IjpbLTE3NzA4ODMzOTJdfQ==
 -->
