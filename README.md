@@ -13,9 +13,9 @@ A princípio foi concebido o desenho 3D de uma peça com geometria similar a cal
 O modelo foi importado para o MPI e em seguida foi aplicada uma malha, antes de se realizar a análise. Foi escolhida uma malha de elementos triangulares. O tipo de malha foi a malha para superfícies fundidas. De maneira que ao fim do processo foram obtidos 1174 nós, com 2204 elementos triangulares, e com Match ratio (**entender oq é**) de 97%. 
 Vale ressaltar que foram também simulados canais de resfriamento situados a 15 mm da superfície da peça e com distâncias entre canais de 55mm.
 
-Ao todo foram selecionados para a simulação cinco níveis de temperatura de injeção (280,255,230,205 e 180°C), três níveis da pressão de recalque(90,75 e 60% da pressão máxima de injeção), três níveis de  temperatura do molde (70,45 e 20°C). A partir desses valores foi criado um conjunto de dados de treino, com 45 configurações, utilizando-se o método fatorial de design de experimento. A numeração de cada teste foi realizada de acordo com o nível de cada parâmetro. Foi convencionado o  número 1 para o nível mais baixo, 2 para o segundo nível e assim sucessivamente até o nível mais alto. De tal forma que para o teste T-523, o digito 4 indica o quarto nível da temperatura de injeção(280), 2 indica o segundo nível da pressão de recalque (75% da pressão de injeção), e 3 indica o terceiro nível da temperatura do molde (70). Em seguid
+Ao todo foram selecionados para a simulação cinco níveis de temperatura de injeção (280,255,230,205 e 180°C), três níveis da pressão de recalque(90,75 e 60% da pressão máxima de injeção), três níveis de  temperatura do molde (70,45 e 20°C). A partir desses valores foi criado um conjunto de dados de treino, com 45 configurações, utilizando-se o método fatorial de design de experimento. A numeração de cada teste foi realizada de acordo com o nível de cada parâmetro. Foi convencionado o  número 1 para o nível mais baixo, 2 para o segundo nível e assim sucessivamente até o nível mais alto. De tal forma que para o teste T-523, o digito 4 indica o quarto nível da temperatura de injeção(280), 2 indica o segundo nível da pressão de recalque (75% da pressão de injeção), e 3 indica o terceiro nível da temperatura do molde (70). Em seguida foi simulado também um conjunto de teste contendo 10 amostras com valores aleatórios de parâmetros dentro das faixas recomendadas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY0NDYxNDcyLDExMTM5NjcxMjMsMjAzOD
-k0OTQyNCwtNjE5OTkyNDIsMTQ5ODE1MjYxNCwtMTUzMTYzMjg1
-MV19
+eyJoaXN0b3J5IjpbMjA3MTg5NTY5MCwxMTEzOTY3MTIzLDIwMz
+g5NDk0MjQsLTYxOTk5MjQyLDE0OTgxNTI2MTQsLTE1MzE2MzI4
+NTFdfQ==
 -->
