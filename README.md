@@ -13,8 +13,8 @@ A princípio foi concebido o desenho 3D de uma peça com geometria similar a cal
 O modelo foi importado para o MPI e em seguida foi aplicada uma malha, antes de se realizar a análise. Foi escolhida uma malha de elementos triangulares. O tipo de malha foi a malha para superfícies fundidas. De maneira que ao fim do processo foram obtidos 1174 nós, com 2204 elementos triangulares, e com Match ratio (**entender oq é**) de 97%. 
 Vale ressaltar que foram também simulados canais de resfriamento situados a 15 mm da superfície da peça e com distâncias entre canais de 55mm.
 
-Ao todo foram selecionados para a simulação cinco níveis de temperatura de injeção (280,255,230,205 e 180°C), três níveis da pressão de recalque(90,75 e 60% da pressão máxima de injeção), três níveis de  temperatura do molde (70,45 e 20°C). A partir desses valores foi criado um conjunto de dados de treino, utilizando-se o método fatorial de design de experimento
+Ao todo foram selecionados para a simulação cinco níveis de temperatura de injeção (280,255,230,205 e 180°C), três níveis da pressão de recalque(90,75 e 60% da pressão máxima de injeção), três níveis de  temperatura do molde (70,45 e 20°C). A partir desses valores foi criado um conjunto de dados de treino, utilizando-se o método fatorial de design de experimento.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxOTk5MjQyLDE0OTgxNTI2MTQsLTE1Mz
-E2MzI4NTFdfQ==
+eyJoaXN0b3J5IjpbMjAzODk0OTQyNCwtNjE5OTkyNDIsMTQ5OD
+E1MjYxNCwtMTUzMTYzMjg1MV19
 -->
